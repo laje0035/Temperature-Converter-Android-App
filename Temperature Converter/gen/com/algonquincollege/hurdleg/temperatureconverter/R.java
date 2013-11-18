@@ -64,15 +64,16 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_about=0x7f080008;
-        public static final int double_seekbar_sb_max=0x7f080007;
-        public static final int double_seekbar_sb_min=0x7f080004;
-        public static final int double_seekbar_tv_max_title=0x7f080005;
-        public static final int double_seekbar_tv_max_value=0x7f080006;
-        public static final int double_seekbar_tv_min_title=0x7f080002;
-        public static final int double_seekbar_tv_min_value=0x7f080003;
+        public static final int action_about=0x7f080009;
+        public static final int double_seekbar_sb_max=0x7f080008;
+        public static final int double_seekbar_sb_min=0x7f080005;
+        public static final int double_seekbar_tv_max_title=0x7f080006;
+        public static final int double_seekbar_tv_max_value=0x7f080007;
+        public static final int double_seekbar_tv_min_title=0x7f080003;
+        public static final int double_seekbar_tv_min_value=0x7f080004;
         public static final int seekBarCelsius=0x7f080000;
         public static final int seekBarFahrenheit=0x7f080001;
+        public static final int seekBarKelvin=0x7f080002;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
